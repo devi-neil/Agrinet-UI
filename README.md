@@ -21,7 +21,8 @@ separate repository.
 - Wireframing & Prototyping
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
+
+<img src="https://github.com/user-attachments/assets/afb7d2af-b87d-4dd7-9a37-34cc6d4f3c87" alt="Dashboard UI" width="900">
 
 <h3>GIS Map UI</h3>
 <img src="https://github.com/user-attachments/assets/9b5cbc8b-72ca-4cf8-b4de-8752c36d7cd1" alt="GIS Map UI" width="900">
