@@ -22,7 +22,10 @@ separate repository.
 
 ## 📸 Screenshots
 ![Dashboard](screenshots/dashboard.png)
-![GIS Map](screenshots/map.png)
+
+<h3>GIS Map UI</h3>
+<img src="https://github.com/user-attachments/assets/9b5cbc8b-72ca-4cf8-b4de-8752c36d7cd1" alt="GIS Map UI" width="900">
+
 
 <h3>Login Screen</h3>
 <img src="https://github.com/user-attachments/assets/8ecd3dab-85de-4577-a043-865e9ad7ffeb" alt="Login UI" width="900">
