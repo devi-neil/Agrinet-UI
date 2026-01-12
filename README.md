@@ -24,5 +24,6 @@ separate repository.
 ![Dashboard](screenshots/dashboard.png)
 ![GIS Map](screenshots/map.png)
 
-![Login](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ecd3dab-85de-4577-a043-865e9ad7ffeb" />
-)
+<h3>Login Screen</h3>
+<img src="https://github.com/user-attachments/assets/8ecd3dab-85de-4577-a043-865e9ad7ffeb" alt="Login UI" width="900">
+
